@@ -1,0 +1,88 @@
+
+#+TITLE: Camp!nCox Treasure Hunt Challenge
+
+#+DESCRIPTION: Adventure and Activity based Treasure Hunt Challenge
+
+* Philosophy
+  Adventure Style Treasure Hunt Challenge aimed to increase activity of participants.
+
+  
+* Goal
+  Players have to find a secret tent where the lost treasure of Captain George William.
+** Secret Tent (Captain's Cabinet)
+   A beautifully decorated tent with large maps of ocean, ship paintings that looks like a captain's cabinet.  
+*** A secretly hidden locker
+    A Davy Jones locker locked with a key, whoever can open the locker first can claim the prize inside it.
+*** A wall mounted Tablet
+    where a special app is installed. When a unused unique combination is entered the will give a hint
+    how to find the hidden secret locker.
+
+
+* Gameplay 
+** Preliminary Level
+*** Location
+   Players will be given observable clues and riddles to the location of the secret tent when they visit common places.
+
+   |-------------------+-----------+-----------------|
+   | Chess Table       | Tea Table | Carrom Table    |
+   |-------------------+-----------+-----------------|
+   | Painting          |           | Coconut tree    |
+   |-------------------+-----------+-----------------|
+   | Good Vibe Huts    |           | Toilet          |
+   |-------------------+-----------+-----------------|
+   | Bushes and Jugles |           | Moshal          |
+   |-------------------+-----------+-----------------|
+   | Wooden Pyramids   | Lake      | Badminton Court |
+   |-------------------+-----------+-----------------|
+
+   Each location will guide to the next location and provide fragments of clues for the *secret tent*.
+
+*** Number Combination
+    Players will be rewareded with numbers and word token when they participate in various sports activities
+    available at the camping site through spicy SMS from the Captain.
+**** Carrom
+**** Playing Cards
+**** Fishing
+**** Volleyball
+**** Skating/Dart
+**** Kite
+**** Football
+**** Badminton
+**** Table Tennis
+**** Chess
+**** Beach Hamocking
+**** Beach Tenting
+**** Bonfire
+    
+   Players will be given an additional unique number in their tents.
+
+*** Preliminary Level Completion
+    Players then will have to ask for the keys of locked captains cabinet from the camp!ncox managers    
+
+    If participants can unlock the tablet, then they will be given a phone number to call.
+
+    
+** Final Level
+    The particular phone number will be programmed to narrate a riddle that actually gives
+    a hint for the caller to call again at the right time split.
+
+    When called at the right time he will be given the location of the Davy Jones Locker and
+    will be asked to buy *Darth* from the store in the campsite which is a keyword for the keys.
+
+*** Final Level Completion
+    After that he will have to visit the the captains cabinet again, find the secret locker, unlock and then claim the prize. 
+
+
+* Team
+
+  The development team can be consisted of:
+  |------------------------------------+--------+------------------------------------------------------------------------------------|
+  | Role                               | Number | Task                                                                               |
+  |------------------------------------+--------+------------------------------------------------------------------------------------|
+  | Desginer and Observer              |      2 | Design the challenge beforehand and log participant activities                     |
+  |------------------------------------+--------+------------------------------------------------------------------------------------|
+  | Software Engineer(First Time Only) |      1 | Create the sever for final clue                                                    |
+  |                                    |        | Create the app for observers to log activity and send sms tokens to the partipants |
+  |------------------------------------+--------+------------------------------------------------------------------------------------|
+  | Interior Designer                  |      1 | Decorate the captains cabinet                                                      |
+  |------------------------------------+--------+------------------------------------------------------------------------------------|

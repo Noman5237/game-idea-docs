@@ -1,0 +1,180 @@
+
+#+TITLE: 2D Car Puzzle Game
+TODO Find a better name!
+
+#+DESCRIPTION: Design documentation
+
+* Philosophy
+  This game is a puzzle of management and maintaining performance over a longer period of time.
+  Players have to be creative about solving puzzles.
+  In this game player has to keep on completing the levels by using the allocated resources efficiently.
+  Players can exchange and invest resources among the community.
+  Player has to drive a vehicle and associated cargo vehicles with the
+  task of delivering cargos to multiple different stations situated in different levels of vertical heights
+
+
+* Genre
+  Hypercasual Puzzle Art Creative Sandbox
+  
+  
+* Targeted Audience
+  Players who like figurative puzzles, likes to maintain consistency and loves to compete.
+
+
+* Targeted Platform
+  Android and IOS only
+
+
+
+* Inspiration
+** Hill Climbing Racing
+  Many powerups, environment settings and gameplay mechanics are inspired
+  from Hill Climbing Racing
+** Poly Bridge
+   The visual asthetics of this game have been influenced by Polybridge.
+   And the sandboxing mode for the online community also has been taken from poly bridge.
+
+
+* Characters
+  Player can control the only character in game who is the driver of the main vehicle.
+
+  
+* Game Mechanics
+
+** Modes 
+  There are two modes in this game and player can only access one mode in any given time
+*** Draw Mode
+    Player can draw or erase paths.
+*** Drive Mode
+    Player can drive the vehicle.
+    Player can attach/remove any cargo vehicle in the carrier chain.
+
+
+** Resources 
+   Player will be allocated a fixed amounts of resources which are,
+*** Ink
+    To draw path
+*** Eraser
+    To erase drawn paths
+*** Fuel
+    To drive the vehicle
+
+
+** Elements of Control
+   Player has control over the following elements to optimize the use of resources:
+*** Movement
+    Player has to plan the movements of the vehicle carefully to optimize the use of all allocated resources. 
+*** Fuel Pressure
+    Player can manipulate the fuel pressure to generate optimized amount of POWER
+    needed to drive along the vertical slope with the added challenge of minimizing the
+    use of fuel.
+*** No of Cargo Vehicles attached
+    Player has the ability to control the number of attached cargo vehicles to pull.
+
+    
+** Uncontrollable Element
+*** Tyre Wear
+    The more a player will move the more will his tires wear. Tire wear controls the grip player has
+    over surface.
+
+
+* Game Play
+**** Paths can be conjuncted. And this feature will be given after the player gets used to with the game.
+**** The first twmo or three levels will be tutorials with unlimited resources and no car upgrades.
+**** Players will start the new round with the amount of resources he have in his inventory.
+**** The remainings of resources from completed levels will be added to the inventory of the players.
+**** Players will be allocated fixed amount of resources for the next round after he completes the previous round.
+**** Players will have a full preview of any level before starting to actually play the level.
+**** Engines wear out after playing and they can be automatically serviced in exchange of time.
+**** Players can have maximum five lives. And after the end of each life spent, a new life generation will take 10 minutes.
+
+
+* Game Levels
+  At the start, the game will have 100+ levels categorized into different types of environments.
+  We extract interesting environment designs from Hill Climbing Racing game. 
+  Every environment will have their own special road texture.
+
+
+* Goal
+  The goal of player is to deliver cargos in all the stations and reach the END platform by managing the allocated resources optimally.
+
+
+* Game Prototype Visual
+  Basic game prototype and screenshots can be found at [[simmer.io/@Anonyman637/sketchcar2dphysicspuzzle][simmer.io unity webgl game server]]
+
+
+* Powerups
+  Players can have sets of powerups attached to the vehicle. Each set can have at most 3 or 4 powerups.
+  Powerups can be bought with money.
+  Some possible powerups can be:
+*** Roll cage
+    Protects driver from hits
+*** Winter tyres
+    Increase overall grip with special bonus on snowy and icy surfaces
+*** Fume Boost
+    Power boost when fuel pressure is low
+*** Nitro
+    Additional power boost from nitro compartment
+*** Glider
+    Car can glide from one platform (high) to another (low) instead of parabolic downfall due to gravity
+
+
+* Sanbdox
+  Players can design their own levels and share it for other players to play.
+  Most popular sandboxed levels can be featured in the community.
+  Creators of most popular sandbox levels will be rewarded with resources.
+  
+  
+* Scoring
+  Score will be weighted sum of the amount of remaining resources left. 
+  There will be two online leaderboards based on time and points.
+
+
+* Music and Sound
+  
+* Visual Asthetics
+  Low Resolution Artistic Texture.
+  The visual asthetics of the game will be very similar to polybride.
+
+
+* Monetization
+  Players can sell the resources from inventory to earn money.
+  And money can be used to upgrade various parts of the vehicle like increasing the maximum power, more efficient engine, and less tyre wear and also other resources or can even buy new vehicles.
+  For example, players can buy new tyres with the money he earned after selling some fuel.
+  We can add in game purchases and advertisements to buy resource packs.
+
+*** Virtual Community Market
+    Players can set their resources on sell online for money or other resources.
+    But then we have to add in game purchases as a competetive seller.
+    The exchange rate is kinda tricky.
+    More experienced players can invest in the vehicles in the less experienced players and can get a
+    cut in the resources earned from the invested player. But this investment thing will be balanced and controlled 
+    so that players can't get the investment all the time.
+  
+
+* Team
+  The development team can be consisted of:
+  |-------------------+--------+-------------------------------------------------------------------------------|
+  | Role              | Number | Specialization                                                                |
+  |-------------------+--------+-------------------------------------------------------------------------------|
+  | Desginer          |      1 |                                                                               |
+  |-------------------+--------+-------------------------------------------------------------------------------|
+  | Programmer        |      2 | Customizing and optimizing the unity shader pipeline for mobile games         |
+  |                   |        | Gameplay Programmer                                                           |
+  |-------------------+--------+-------------------------------------------------------------------------------|
+  | Artist            |      1 | Building artistic low resolution 3D models of environment and cars in Blender |
+  |-------------------+--------+-------------------------------------------------------------------------------|
+  | Software Engineer |      2 | Optimizing the build and performance of the application for native platforms  |
+  |                   |        | Creating and managing the leaderboards, sandbox levels and virtual market     |
+  |-------------------+--------+-------------------------------------------------------------------------------|
+
+
+* Funding Marketing and Sales
+  The game can be published in the official app stores of Android and IOS.
+  We can use the native marketing tools available from app stores.
+  We can release prototype versions in app stores before releasing and collect
+  feedback from gamers to be implemented in the final release.
+
+
+
+
