@@ -1,7 +1,7 @@
 
 #+TITLE: Camp!nCox Treasure Hunt Challenge
 
-#+DESCRIPTION: Adventure and Activity based Treasure Hunt Challenge
+#+DESCRIPTION: Adventure Activity based Treasure Hunt Challenge
 
 * Philosophy
   Adventure Style Treasure Hunt Challenge aimed to increase activity of participants.
@@ -35,10 +35,10 @@
    | Wooden Pyramids   | Lake      | Badminton Court |
    |-------------------+-----------+-----------------|
 
-   Each location will guide to the next location and provide fragments of clues for the *secret tent*.
+   Each location will guide to the next location and provide fragments of clues for the location of *Captain's Cabinet*.
 
 *** Number Combination
-    Players will be rewareded with numbers and word token when they participate in various sports activities
+    Players will be rewareded with numbers token when they participate in various sports activities
     available at the camping site through spicy SMS from the Captain.
 **** Carrom
 **** Playing Cards
@@ -53,13 +53,18 @@
 **** Beach Hamocking
 **** Beach Tenting
 **** Bonfire
-    
-   Players will be given an additional unique number in their tents.
+
+     There will an additional identification code hidden at their tents.
+
+   Each player will be assigned with a unique pattern when the provided tokens are arranged
+   in ascending order.
+
+   So players can either complete more activities to get all the 8 bits of the pattern
+   or participate in some activities and predict the rest of the pattern.
 
 *** Preliminary Level Completion
-    Players then will have to ask for the keys of locked captains cabinet from the camp!ncox managers    
-
-    If participants can unlock the tablet, then they will be given a phone number to call.
+    Players then will have to find the location of captains cabinet.
+    If participants can unlock the tablet with their unique id token and 8 bits of the pattern, then they will be given a phone number to call.
 
     
 ** Final Level
@@ -76,13 +81,13 @@
 * Team
 
   The development team can be consisted of:
-  |------------------------------------+--------+------------------------------------------------------------------------------------|
-  | Role                               | Number | Task                                                                               |
-  |------------------------------------+--------+------------------------------------------------------------------------------------|
-  | Desginer and Observer              |      2 | Design the challenge beforehand and log participant activities                     |
-  |------------------------------------+--------+------------------------------------------------------------------------------------|
-  | Software Engineer(First Time Only) |      1 | Create the sever for final clue                                                    |
-  |                                    |        | Create the app for observers to log activity and send sms tokens to the partipants |
-  |------------------------------------+--------+------------------------------------------------------------------------------------|
-  | Interior Designer                  |      1 | Decorate the captains cabinet                                                      |
-  |------------------------------------+--------+------------------------------------------------------------------------------------|
+  |-----------------------+--------+------------------------------------------------------------------------------------|
+  | Role                  | Number | Task                                                                               |
+  |-----------------------+--------+------------------------------------------------------------------------------------|
+  | Desginer and Observer |      2 | Design the challenge beforehand and log participant activities                     |
+  |-----------------------+--------+------------------------------------------------------------------------------------|
+  | Software Engineer     |      1 | Create a web app for providing the final clues                                     |
+  |                       |        | Create the app for observers to log activity and send sms tokens to the partipants |
+  |-----------------------+--------+------------------------------------------------------------------------------------|
+  | Interior Designer     |      1 | Decorate the captains cabinet                                                      |
+  |-----------------------+--------+------------------------------------------------------------------------------------|
