@@ -1,0 +1,94 @@
+
+#+TITLE: Heaven & Hell: Portal Edition
+
+#+DESCRIPTION: Design documentation
+
+* Philosophy
+  Fast paced hypercasual game where player has no direct control over the protagonist of the game i.e. the Ball.
+  This game implements the idea of wormholes or connected points in space or simply portals that
+  teleports the ball from one place to another not instantaneously.
+  This game includes two dimensions that control the momentum of the ball with the non synchronous passage of time.
+  Gravity plays an important part here in controlling the direction of portal openings.
+  So this is a game that implements all of space, time and gravity.
+
+
+* Genre
+  Hypercasual Puzzle Physics
+  
+  
+* Targeted Audience
+  Players who likes to play fast paced hyper-casual games.
+
+
+* Targeted Platform
+  Web and Mobile OS
+
+
+* Inspiration
+** Heaven and Hell: Original
+** Portal Series
+
+
+* Characters
+  The Ball
+  
+
+* Game Mechanics
+
+
+* Game Play
+
+
+* Game Levels
+
+
+* Goal
+
+
+* Game Visuals
+
+
+* Powerups
+
+
+* Scoring
+
+
+* Music and Sound
+
+  
+* Visual Asthetics
+
+
+* Monetization
+    
+
+* Team
+  The development team can be consisted of:
+  |------------+--------|
+  | Role       | Number |
+  |------------+--------|
+  | Desginer   |      1 |
+  |------------+--------|
+  | Programmer |      1 |
+  |------------+--------|
+  | Artist     |      1 |
+  |------------+--------|
+
+
+* Funding Marketing and Sales
+  The game can be published in the official app stores of Android and IOS.
+  We can use the native marketing tools available from app stores.
+  We can release prototype versions in app stores before releasing and collect
+  feedback from gamers to be implemented in the final release.
+
+
+* Market Analysis
+  I still didn't found a game that implements space, time and gravity in a hyper-casual genre.
+  But the game that uses physics and portals to confuse and amaze games to this day is the Portal Series.
+** Portal Series
+   Both of the portal games are hugely successful. Gamers do find themselves in tricky positions at the start
+   but people adapt and amazed at how the puzzles and levels are setup in this game.
+
+
+
