@@ -39,29 +39,38 @@
 * Game Play
 
 
-* Game Levels
-
-
 * Goal
+  The goal of the player is to direct the ball as far as he can without damaging the ball permanently.
 
 
 * Game Visuals
+  Game visuals are attached in the directory.
 
 
 * Powerups
 
 
 * Scoring
+  Gains score when the player advances forward in the game.
+  There can also hard earned in game coins to be used as multipliers.
+  We can also have a global leaderboard based on all-time, weekly and daily basis.
 
 
 * Music and Sound
-
+  Casual fast paced music 
   
+
 * Visual Asthetics
+  The game is black and white. When the gravity is downwards i.e. normal then
+  background of the game is white and the ball and obstacles is black, and when the
+  gravity is inverted the contrast also gets inverted.
 
 
 * Monetization
-    
+  As this is a runner hyper-casual game so monetization is almost the same as all other
+  hyper-casual games. Watch advertisement to continue.
+  In game coins can also be used to revive when player is down.
+
 
 * Team
   The development team can be consisted of:
@@ -88,7 +97,9 @@
   But the game that uses physics and portals to confuse and amaze games to this day is the Portal Series.
 ** Portal Series
    Both of the portal games are hugely successful. Gamers do find themselves in tricky positions at the start
-   but people adapt and amazed at how the puzzles and levels are setup in this game.
+   but people adapt and amazed at how the puzzles and levels are setup in this game. People finds the physics
+   not similar to the real world but very consistent.
+   That what makes the game fun, confusing, interesting and worth playing it.
 
 
 
