@@ -25,7 +25,6 @@ TODO Find a better name!
   Android and IOS only
 
 
-
 * Inspiration
 ** Hill Climbing Racing
   Many powerups, environment settings and gameplay mechanics are inspired
@@ -33,6 +32,7 @@ TODO Find a better name!
 ** Poly Bridge
    The visual asthetics of this game have been influenced by Polybridge.
    And the sandboxing mode for the online community also has been taken from poly bridge.
+
 
 
 * Characters
@@ -151,7 +151,7 @@ TODO Find a better name!
     cut in the resources earned from the invested player. But this investment thing will be balanced and controlled 
     so that players can't get the investment all the time.
   
-
+    
 * Team
   The development team can be consisted of:
   |-------------------+--------+-------------------------------------------------------------------------------|
@@ -175,6 +175,9 @@ TODO Find a better name!
   We can release prototype versions in app stores before releasing and collect
   feedback from gamers to be implemented in the final release.
 
+
+* Competitor Analysis
+  
 
 
 
