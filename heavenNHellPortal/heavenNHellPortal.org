@@ -34,9 +34,51 @@
   
 
 * Game Mechanics
+** Gravity
+   The gravity of the environment is either normal i.e. downwards or inverted i.e. upwards.
+   Gravity alongside its regualar behavioral properties, controls the portal openings.
+   Portal openings are always in the direction of the gravity and portal exits are opposite
+   to the direction of the gravity. Inverted gravity in the game is expressed using contrast theme.
+
+
+** Dimension
+   There are two separate dimensions in the game, the physical dimension that is visible to the player
+   and the portal dimension that exists between the portals.
+   In the portal dimension ball continues to freely fall and gain momentum.
+
+
+** Space
+   Portals creates a link between two points in space. And the teleportation between the portals is
+   governed by time. Player can/cannot teleport the ball instantaneously.
+   
+
+** Time
+   Players can control the time in the physical dimension only.
+   The only time control player has is he can slow down the passage of time.
+   This allows player to think and precisely place the portals to have greater control over the game.
 
 
 * Game Play
+  There are two restrictions that makes the game challenging:
+** Energy Meter
+   Player cannot create portals all the time. After a portal is created the energy bar takes some time to recharge.
+   And players cannot create portals until the energy is restored.
+
+   
+** Sand Timer
+   The sand timer allows player to slow down time in a limited amount.
+   The timer expires as the player is slowing the time down.
+   The timer automatically rechares when player doesn't slow the time down.
+   Recharging definitely takes more time than usage timer.
+
+
+  And one factor makes the game replayable:
+  
+
+** Longer Lifespan
+   Player doesn't die instant deaths after he gets hit by obstacle. The game should be more forgiving.
+   And so players will have a health bar which decreases after he gets hit. But the game also
+   allows to regenerate the lost health through frequent powerups.
 
 
 * Goal
@@ -48,6 +90,8 @@
 
 
 * Powerups
+  Variations of powerups can be created for factorizing energy and sand timer recharges.
+  Invincibility and health powerups also must be included.
 
 
 * Scoring
@@ -93,13 +137,11 @@
 
 
 * Market Analysis
-  I still didn't found a game that implements space, time and gravity in a hyper-casual genre.
+  I still didn't found a game that implements space, time and gravity in a hyper-casual genre and at the same time is also 2D.
   But the game that uses physics and portals to confuse and amaze games to this day is the Portal Series.
 ** Portal Series
    Both of the portal games are hugely successful. Gamers do find themselves in tricky positions at the start
    but people adapt and amazed at how the puzzles and levels are setup in this game. People finds the physics
    not similar to the real world but very consistent.
    That what makes the game fun, confusing, interesting and worth playing it.
-
-
 
