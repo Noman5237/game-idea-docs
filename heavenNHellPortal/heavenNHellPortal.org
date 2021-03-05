@@ -41,15 +41,19 @@
    to the direction of the gravity. Inverted gravity in the game is expressed using contrast theme.
 
 
-** Dimension
+** Dimension and Space Time Stretching
    There are two separate dimensions in the game, the physical dimension that is visible to the player
    and the portal dimension that exists between the portals.
    In the portal dimension ball continues to freely fall and gain momentum.
+   Streching in physical dimension only stretches time.
+   Streching in portal dimension only stretches space.
 
 
 ** Space
    Portals creates a link between two points in space. And the teleportation between the portals is
    governed by time. Player can/cannot teleport the ball instantaneously.
+   Space between the portals can be stretched which allows player to gain momentum
+   even between instantaneous teleportations.
    
 
 ** Time
@@ -66,9 +70,9 @@
 
    
 ** Sand Timer
-   The sand timer allows player to slow down time in a limited amount.
-   The timer expires as the player is slowing the time down.
-   The timer automatically rechares when player doesn't slow the time down.
+   The sand timer allows player to stretch in a limited amount.
+   The timer expires as the player is stretches time or space.
+   The timer automatically rechares when player doesn't stretch.
    Recharging definitely takes more time than usage timer.
 
 
@@ -79,6 +83,7 @@
    Player doesn't die instant deaths after he gets hit by obstacle. The game should be more forgiving.
    And so players will have a health bar which decreases after he gets hit. But the game also
    allows to regenerate the lost health through frequent powerups.
+   And the game pauses when player is inactive.
 
 
 * Goal
