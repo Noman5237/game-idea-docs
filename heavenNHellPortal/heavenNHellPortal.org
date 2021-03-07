@@ -17,7 +17,7 @@
   
   
 * Targeted Audience
-  Players who likes to play fast paced hyper-casual games.
+  Players who likes to play fast paced hyper-casual games and specially who loves puzzles.
 
 
 * Targeted Platform
@@ -89,11 +89,11 @@
 * Goal
   The goal of the player is to direct the ball as far as he can without damaging the ball permanently.
 
-
+  
 * Game Visuals
   Game visuals are attached in the directory.
 
-
+  
 * Powerups
   Variations of powerups can be created for factorizing energy and sand timer recharges.
   Invincibility and health powerups also must be included.
@@ -140,7 +140,7 @@
   We can release prototype versions in app stores before releasing and collect
   feedback from gamers to be implemented in the final release.
 
-
+  
 * Market Analysis
   I still didn't found a game that implements space, time and gravity in a hyper-casual genre and at the same time is also 2D.
   But the game that uses physics and portals to confuse and amaze games to this day is the Portal Series.
